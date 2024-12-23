@@ -31,9 +31,9 @@
 
 ### 📚 Education and Certifications
 
-- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP (In Progress).  
-- 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision**.  
-- 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision**.
+- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Remote, Brazil (In Progress).  
+- 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.  
+- 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
 - 🎓 **Technical Course**: Computer Programming - SENAI, Santa Catarina, Brazil.  
 
 ---
