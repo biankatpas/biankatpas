@@ -14,7 +14,7 @@
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
 
-- 📚 I have contributed to projects involving **OpenCV**, **scikit-learning**, **Keras**, **TensorFlow**, **LangChain**, **Retrieval-Augmented Generation (RAG) systems**, **Django Rest Framework**, **Python**, **Node.js**, **AWS**, and **Power Platform Solutions**.
+- 📚 I have contributed to projects involving **Computer Vision**, **OpenCV**, **scikit-learning**, **Keras**, **TensorFlow**, **LangChain**, **Retrieval-Augmented Generation (RAG) systems**, **Django Rest Framework**, **Python**, **Node.js**, **Vector Databases**, **AWS**, and **Power Platform Solutions**.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### 📚 Education and Certifications
 
-- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Remote, Brazil (In Progress).  
+- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo (Remote), Brazil (In Progress).  
 - 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.  
 - 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
 - 🎓 **Technical Course**: Computer Programming - SENAI, Santa Catarina, Brazil.  
