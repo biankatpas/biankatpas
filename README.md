@@ -5,27 +5,15 @@
 <!-- About Me Section -->
 ### 👩🏼‍💻 About Me
 
-- 💻 With over **7 years** of experience in software development, I specialize in:
-  - Building **backends** with **Python** and **Django Rest Framework**.
-  - Crafting solutions with **Computer Vision** using **OpenCV**, **Machine Learning** and related libraries.
-  - Integrating with **AWS**, **Docker**, and third-party APIs.
+- 💻 With over **7 years** of experience in software development, I specialize in developing **backend** solutions, **AI-driven** applications, and **computer vision** projects, as well as integrating **AWS services**, and third-party APIs.
 
-- 📍 Based in Santo Amaro da Imperatriz, **Santa Catarina, Brazil**.
+- 📚 I have hands-on expertise with a wide range of tools and frameworks, including **scikit-learn**, **Keras**, **TensorFlow**, **LangChain**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **Flask**, **FastAPI**, **Beautiful Soup**, **SQLAlchemy**, **Node.js**, **MS Power Platform**, **Git**, and **Docker**.
+
+- 🚀 I'm skilled in collaborating with **international**, **cross-functional** teams, **agile environments**, and smoothly **adapting** to diverse tech stacks.
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
-
-- 📚 I have contributed to projects involving **Computer Vision**, **OpenCV**, **scikit-learning**, **Keras**, **TensorFlow**, **LangChain**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **Django Rest Framework (DRF)**, **Flask**, **Fast API**, **Beautiful Soup**, **SQLAlchemy**, **Python**, **Node.js**, **AWS**, **Docker**, **third-party APIs**, and **MS Power Platform**.
-
----
-
-### 🚀 Skills
-
-**Languages and Technologies**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  
+- 📍 Based in Santo Amaro da Imperatriz, **Santa Catarina, Brazil**.
 
 ---
 
