@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Tallita Passos!</h1>
-<h3 align="center">Software Engineer | Backend, AI, Computer Vision</h3>
+<h3 align="center">Software Engineer @ Backend, AI, Computer Vision</h3>
 
 <!-- About Me Section -->
 ### 👩🏼‍💻 About Me
