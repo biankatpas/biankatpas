@@ -9,7 +9,11 @@
 
 - 📚 I have hands-on expertise with a wide range of tools and frameworks, including **scikit-learn**, **Keras**, **TensorFlow**, **LangChain**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **Flask**, **FastAPI**, **Beautiful Soup**, **SQLAlchemy**, **Node.js**, **MS Power Platform**, **Git**, and **Docker**.
 
+- 💡 My main interests are **backend development**, and areas of **Artificial Intelligence**, including **Image Processing**, **Computer Vision**, **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**.
+
 - 🚀 I'm skilled in collaborating with **international**, **cross-functional** teams, **agile environments**, and smoothly **adapting** to diverse tech stacks.
+
+- ❤️ As a Software Engineer, I am passionate about learning new technologies and applying them effectively to solve real-world problems.
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
   
