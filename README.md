@@ -5,7 +5,7 @@
 <!-- About Me Section -->
 ### 👩🏼‍💻 About Me
 
-- 💻 With over **7 years** of experience in software development, I specialize in developing **backend** solutions, **APIs**, **AI-driven** applications, and **computer vision** projects, as well as integrating **AWS services**, and third-party APIs.
+- 💻 With **5+** of experience in software development, I specialize in developing **backend** solutions, **APIs**, **AI-driven** applications, and **computer vision** projects, as well as integrating **AWS services**, and third-party APIs.
 
 - 📚 I have hands-on expertise with a wide range of tools and frameworks, including **scikit-learn**, **Keras**, **TensorFlow**, **LangChain**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **Flask**, **FastAPI**, **Beautiful Soup**, **SQLAlchemy**, **Node.js**, **MS Power Platform**, **Git**, and **Docker**.
 
