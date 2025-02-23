@@ -18,7 +18,7 @@
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
 - 🎓 Currently pursuing a **Bachelor's Degree in Statistics** at UNISUL.
   
-- 📍 Based in Santo Amaro da Imperatriz, **Santa Catarina, Brazil**.
+- 📍 Based in **Santa Catarina, Brazil**.
 
 ---
 
