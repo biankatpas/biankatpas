@@ -5,15 +5,13 @@
 <!-- About Me Section -->
 ### 👩🏼‍💻 About Me
 
-- 💻 With **5+** of experience in software development, I specialize in developing **backend** solutions, **APIs**, **computer vision** projects, and **AI-driven** applications, as well as integrating **AWS services**, and third-party APIs.
+- 💻 I have over 5 years of experience in software development, focusing on **backend solutions**, **APIs**, **computer vision** projects, and **AI** applications.
 
-- 📚 I have hands-on expertise with a wide range of tools and frameworks, including **scikit-learn**, **Keras**, **TensorFlow**, **LangChain**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **vector databases**, **Flask**, **FastAPI**, **Beautiful Soup**, **SQLAlchemy**, **Node.js**, **MS Power Platform**, **Git**, and **Docker**.
+- 📚 My main interests are backend development and areas of Artificial Intelligence, including Image Processing, Computer Vision, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
-- 💡 My main interests are **backend development**, and areas of **Artificial Intelligence**, including **Image Processing**, **Computer Vision**, **Machine Learning**, **Deep Learning**, **NLP**, and **LLMs**.
+- 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, LangChain, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I also work with AWS services and third-party APIs.
 
-- 🚀 I'm skilled in collaborating with **international**, **cross-functional** teams, **agile environments**, and smoothly **adapting** to diverse tech stacks.
-
-- ❤️ As a Software Engineer, I am passionate about learning new technologies and applying them effectively to solve real-world problems.
+- ❤️ As a Software Engineer, I'm passionate about learning new technologies and applying them to solve everyday problems.
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
 - 🎓 Currently pursuing a **Bachelor's Degree in Statistics** at UNISUL.
