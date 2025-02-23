@@ -11,7 +11,7 @@
 
 - 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, LangChain, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I also work with AWS services and third-party APIs.
 
-- ❤️ As a Software Engineer, I'm passionate about learning new technologies and applying them to solve everyday problems.
+- ❤️ As a Software Engineer, I'm passionate about learning new technologies and applying them to solve real-world problems.
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
 - 🎓 Currently pursuing a **Bachelor's Degree in Statistics** at UNISUL.
