@@ -16,6 +16,7 @@
 - ❤️ As a Software Engineer, I am passionate about learning new technologies and applying them effectively to solve real-world problems.
 
 - 🎓 Currently pursuing a **Postgraduate Degree in Machine Learning Engineering** at FIAP.
+- 🎓 Currently pursuing a **Bachelor's Degree in Statistics** at UNISUL.
   
 - 📍 Based in Santo Amaro da Imperatriz, **Santa Catarina, Brazil**.
 
@@ -23,8 +24,9 @@
 
 ### 📚 Education and Certifications
 
+- 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
 - 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo, Brazil (In Progress).  
-- 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.  
+- 🎓 **Bachelor's Degree**: Statistics - UNISUL, Santa Catarina, Brazil (In Progress).    
 - 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
 - 🎓 **Technical Course**: Computer Programming - SENAI, Santa Catarina, Brazil.  
 
