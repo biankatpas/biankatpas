@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">Backend Development | Computer Vision | AI/ML Engineering</h3>
+<h3 align="center">Backend | Computer Vision | AI/ML Engineering</h3>
 
 <!-- About Me Section -->
 ### 👩🏼‍💻 About Me
