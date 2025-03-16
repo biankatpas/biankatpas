@@ -21,16 +21,16 @@
 
 **Backend Software Engineer at Ateliware (2021-Present)**
 
-I develop backend solutions and REST APIs for startups and established companies
-I implemented AI solutions with computer vision and RAG systems
-I collaborated with international teams in an agile environment
+- I develop backend solutions and REST APIs for startups and established companies
+- I implemented AI solutions with computer vision and RAG systems
+- I collaborated with international teams in an agile environment
 
 
 **Computer Vision Engineer at 4Vision (2017-2021)**
 
-I developed image analysis pipelines for diverse applications
-I led small teams on specific projects and mentored junior developers
-I collaborated with experts to implement deep learning techniques
+- I developed image analysis pipelines for diverse applications
+- I led small teams on specific projects and mentored junior developers
+- I collaborated with experts to implement deep learning techniques
 
 ### 📚 Education and Certifications
 
