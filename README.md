@@ -3,7 +3,7 @@
 <h3 align="center">Backend | Computer Vision | AI/ML Engineering</h3>
 <!-- About Me Section -->
 
-💻 I have over 5 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
+💻 I have over 7 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
 
 🏢 I currently work as a **Backend Software Engineer** at **Ateliware**, collaborating with cross-functional teams on projects across multiple sectors. Previously, I worked as a **Computer Vision Engineer** at **4Vision**, developing image analysis pipelines for satellite imagery, retail analytics, and Industry 4.0.
 
