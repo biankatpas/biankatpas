@@ -5,7 +5,7 @@
 
 💻 I have over 7 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
 
-🏢 I currently work as a **Backend Software Engineer** at **Ateliware**, collaborating with cross-functional teams on projects across multiple sectors. Previously, I worked as a **Computer Vision Engineer** at **4Vision**, developing image analysis pipelines for satellite imagery, retail analytics, and Industry 4.0.
+🏢 I currently work as a **Backend Engineer** at **Ateliware**, collaborating with cross-functional teams on projects across multiple sectors. Previously, I worked as a **Computer Vision Engineer** at **4Vision**, developing image analysis pipelines for satellite imagery, retail analytics, and Industry 4.0.
 
 📚 My main interests are backend development and areas of Artificial Intelligence, including Image Processing, Computer Vision, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
@@ -19,7 +19,7 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-**Backend Software Engineer at Ateliware (2021-Present)**
+**Backend Engineer at Ateliware (2021-Present)**
 
 - Develop backend solutions and REST APIs for startups and established companies
 - Implemented AI solutions with computer vision and RAG systems
