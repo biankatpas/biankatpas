@@ -24,7 +24,7 @@
 - Collaborated with international teams in an agile environment
 
 
-**Machine Learning & Computer Vision Engineer at 4Vision (2017-2021)**
+**Computer Vision & AI Engineer at 4Vision (2017-2021)**
 
 - Developed image analysis pipelines for diverse applications
 - Led small teams on specific projects and mentored junior developers
