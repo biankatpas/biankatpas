@@ -17,14 +17,17 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-**Back-End & AI Engineer at Ateliware (2021-Present)**
+**AI Engineer at Distrito (2025-Present)**
+- Implemented AI solutions
+
+**Software Engineer at Ateliware (2021-Present)**
 
 - Develop backend solutions and REST APIs for startups and established companies
 - Implemented AI solutions with computer vision and RAG systems
 - Collaborated with international teams in an agile environment
 
 
-**Computer Vision & AI Engineer at 4Vision (2017-2021)**
+**ML Engineer at 4Vision (2017-2021)**
 
 - Developed image analysis pipelines for diverse applications
 - Led small teams on specific projects and mentored junior developers
