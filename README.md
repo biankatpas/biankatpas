@@ -20,7 +20,7 @@
 **AI Engineer at Distrito (2025-Present)**
 - Contributed to the design and development of end‐to‐end AI solutions.
 
-**Software Engineer at Ateliware (2021-Present)**
+**Software Engineer at Ateliware (2021-2025)**
 
 - Develop backend solutions and REST APIs for startups and established companies
 - Implemented AI solutions with computer vision and RAG systems
