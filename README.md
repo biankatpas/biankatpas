@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">Back-End | Computer Vision | AI/ML Engineering</h3>
+<h3 align="center">AI Engineer</h3>
 <!-- About Me Section -->
 
 💻 I have over 7 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
@@ -18,7 +18,7 @@
 ### 👩🏼‍💻 Professional Experience
 
 **AI Engineer at Distrito (2025-Present)**
-- Implemented AI solutions
+- Contributed to the design and development of end‐to‐end AI solutions.
 
 **Software Engineer at Ateliware (2021-Present)**
 
