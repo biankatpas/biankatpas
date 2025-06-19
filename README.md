@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer</h3>
 <!-- About Me Section -->
 
-💻 I have over 7 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
+💻 I have 8 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
 
 📚 My main interests are backend development and areas of Artificial Intelligence, including Image Processing, Computer Vision, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
@@ -30,7 +30,7 @@
 **ML Engineer at 4Vision (2017-2021)**
 
 - Developed image analysis pipelines for diverse applications
-- Led small teams on specific projects and mentored junior developers
+- Led small teams and mentored junior developers
 - Collaborated with experts to implement deep learning techniques
 
 ### 📚 Education and Certifications
