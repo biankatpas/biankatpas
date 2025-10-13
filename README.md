@@ -3,9 +3,9 @@
 <h3 align="center">AI Engineer</h3>
 <!-- About Me Section -->
 
-💻 I have 8 years of experience in software development, focusing on **backend solutions, APIs, computer vision projects**, and **AI** applications.
+💻 I have 8 years of experience in software development, focusing on **backend solutions, APIs, computer vision, agents**, and **AI** applications.
 
-📚 My main interests are backend development and areas of Artificial Intelligence, including Image Processing, Computer Vision, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
+📚 My main interests are backend development and areas of Artificial Intelligence, including Digital Image Processing, Computer Vision, AI Agents, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, LangChain, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I have also practical experience with AWS services and integrating third-party APIs.
 
