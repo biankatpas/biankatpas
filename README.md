@@ -5,7 +5,7 @@
 
 💻 I have 8 years of experience in software development, focusing on **backend solutions, APIs, computer vision, agents**, and **AI** applications.
 
-📚 My main interests are backend development and areas of Artificial Intelligence, including Digital Image Processing, Computer Vision, AI Agents, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
+📚 My main interests are backend development and areas of Artificial Intelligence, including Digital Image Processing, Computer Vision, Agents, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, LangChain, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I have also practical experience with AWS services and integrating third-party APIs.
 
@@ -18,11 +18,11 @@
 ### 👩🏼‍💻 Professional Experience
 
 **AI Engineer at Distrito (2025-Present)**
-- Contributed to the design and development of end‐to‐end AI solutions.
+- Contribute to the design and development of end‐to‐end AI solutions.
 
 **Software Engineer at Ateliware (2021-2025)**
 
-- Develop backend solutions and REST APIs for startups and established companies
+- Developed backend solutions and REST APIs for startups and established companies
 - Implemented AI solutions with computer vision and RAG systems
 - Collaborated with international teams in an agile environment
 
