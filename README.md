@@ -23,21 +23,23 @@
 **Software Engineer at Ateliware (2021-2025)**
 
 - Developed backend solutions and REST APIs for startups and established companies
-- Implemented AI solutions with computer vision and RAG systems
-- Collaborated with international teams in an agile environment
-
+- Worked with serverless and event-driven architectures, integrating payment gateways and third-party APIs
+- Collaborated with product teams to conduct technical discovery and requirements analysis
+- Created WBS, technical estimates, and architectural proposals aligned with business priorities
+- Implemented AI solutions involving computer vision and Retrieval-Augmented Generation (RAG) systems
+- Collaborated with international teams in agile environments
 
 **ML Engineer at 4Vision (2017-2021)**
 
-- Developed image analysis pipelines for diverse applications
+- Developed computer vision pipelines for diverse applications and research domains
+- Collaborated with domain experts to implement advanced machine learning and deep learning techniques
 - Led small teams and mentored junior developers
-- Collaborated with experts to implement deep learning techniques
 
 ### 📚 Education and Certifications
 
 - 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
-- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo, Brazil (In Progress).  
-- 🎓 **Bachelor's Degree**: Statistics - UNISUL, Santa Catarina, Brazil (In Progress).    
+- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo, Brazil.  
+- 🎓 **Bachelor's Degree**: Statistics - UNISUL, Santa Catarina, Brazil (Attended for 2 semesters).    
 - 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
 - 🎓 **Technical Course**: Computer Programming - SENAI, Santa Catarina, Brazil.  
 
