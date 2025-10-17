@@ -18,7 +18,9 @@
 ### 👩🏼‍💻 Professional Experience
 
 **AI Engineer at Distrito (2025-Present)**
-- Contribute to the design and development of end‐to‐end AI solutions.
+- Contribute to the design and development of end‐to‐end AI solutions with focus on intelligent agents and RAG systems
+- Participate in technical meetings and workshops with stakeholders to ensure alignment between business needs and project objectives
+- Collaborate with cross-functional teams to deliver business-focused solutions
 
 **Software Engineer at Ateliware (2021-2025)**
 
