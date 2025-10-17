@@ -3,13 +3,13 @@
 <h3 align="center">AI Engineer</h3>
 <!-- About Me Section -->
 
-💻 I have 8 years of experience in software development, focusing on **backend solutions, APIs, computer vision, agents**, and **AI** applications.
+💻 With 8 years of experience in software development, I specialize in backend solutions, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
-📚 My main interests are backend development and areas of Artificial Intelligence, including Digital Image Processing, Computer Vision, Agents, Machine Learning, Deep Learning, NLP, and LLMs. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
+📚  My core technical interests span backend development and cutting-edge AI domains, including Computer Vision, Intelligent Agents, Machine Learning, Deep Learning, NLP, and LLMs. 
 
 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, LangChain, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I have also practical experience with AWS services and integrating third-party APIs.
 
-❤️ As a AI Engineer, I'm passionate about learning new technologies and applying them to solve real-world problems.
+❤️ As an AI Software Engineer, I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
 
 📍 Based in **Santa Catarina, Brazil**.
 
