@@ -11,7 +11,7 @@
 
 ❤️ As an AI Software Engineer, I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
 
-📍 Based in **Santa Catarina, Brazil**.
+📍 Based in **Santa Catarina, Brazil**. Open to **remote** opportunities only.
 
 ---
 
