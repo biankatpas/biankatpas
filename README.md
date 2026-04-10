@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">AI Software Engineer</h3>
+<h3 align="center">Senior AI Engineer | Backend Engineer </h3>
 <!-- About Me Section -->
 
 💻 With 10+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
