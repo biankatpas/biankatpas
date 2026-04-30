@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">AI Engineer | Backend Engineer</h3>
+<h3 align="center">Applied AI Engineer</h3>
 <!-- About Me Section -->
 
 💻 With 10+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
@@ -17,7 +17,7 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-**AI Engineer at Distrito (2025-Present)**
+**Applied AI Engineer at Distrito (2025-Present)**
 - Led the design and development of end‐to‐end AI solutions with focus on intelligent agents and RAG systems
 - Collaborate with cross-functional teams to deliver business-focused solutions
 - Mentored junior developers
