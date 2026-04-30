@@ -9,7 +9,7 @@
 
 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, PyTorch, Numpy, LangChain, LangGraph, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I have also practical experience with AWS services and integrating third-party APIs.
 
-❤️ As an AI Software Engineer, I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
+❤️ As an Software Engineer, I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
 
 📍 Based in **Santa Catarina, Brazil**. Open to **remote** opportunities only.
 
