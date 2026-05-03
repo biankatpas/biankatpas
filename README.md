@@ -22,7 +22,7 @@
 - Collaborate with cross-functional teams to deliver business-focused solutions
 - Mentored junior developers
 
-**AI Backend Engineer at Ateliware (2021-2025)**
+**AI/Backend Engineer at Ateliware (2021-2025)**
 
 - Developed backend solutions and REST APIs for startups and established companies
 - Worked with serverless and event-driven architectures, integrating payment gateways and third-party APIs
@@ -32,7 +32,7 @@
 - Collaborated with international teams in agile environments
 - Mentored junior developers
 
-**AI Engineer at 4Vision (2017-2021)**
+**AI/ML Engineer at 4Vision (2017-2021)**
 
 - Developed computer vision pipelines for diverse applications and research domains
 - Collaborated with domain experts to implement advanced machine learning and deep learning techniques
