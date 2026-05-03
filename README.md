@@ -23,7 +23,6 @@
 - Mentored junior developers
 
 **AI/Backend Engineer at Ateliware (2021-2025)**
-
 - Developed backend solutions and REST APIs for startups and established companies
 - Worked with serverless and event-driven architectures, integrating payment gateways and third-party APIs
 - Collaborated with product teams to conduct technical discovery and requirements analysis
@@ -33,17 +32,19 @@
 - Mentored junior developers
 
 **AI/ML Engineer at 4Vision (2017-2021)**
-
 - Developed computer vision pipelines for diverse applications and research domains
 - Collaborated with domain experts to implement advanced machine learning and deep learning techniques
 - Led small teams and mentored junior developers
 
+**AI/ML Researcher at UNIVALI (2017-2019)**
+- Developed CNN-based models and computer vision solutions for applied research projects
+
 ### 📚 Education and Certifications
 
 - 🎓 **Master's Degree**: Applied Computing - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
-- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo, Brazil.  
-- 🎓 **Bachelor's Degree**: Statistics - UNISUL, Santa Catarina, Brazil (Attended for 2 semesters).    
+- 🎓 **Postgraduate**: Machine Learning Engineering - FIAP, Sao Paulo, Brazil.    
 - 🎓 **Bachelor's Degree**: Computer Science - Research in **Computer Vision** - UNIVALI, Santa Catarina, Brazil.
+- 🎓 **Bachelor's Degree**: Statistics - UNISUL, Santa Catarina, Brazil (Attended for 2 semesters).  
 - 🎓 **Technical Course**: Computer Programming - SENAI, Santa Catarina, Brazil.  
 
 ---
