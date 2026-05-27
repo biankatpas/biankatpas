@@ -1,6 +1,6 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">Applied AI Engineer</h3>
+<h3 align="center">AI Software Engineer</h3>
 <!-- About Me Section -->
 
 💻 With 10+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
@@ -9,7 +9,7 @@
 
 🚀 I'm familiar with many tools and frameworks such as OpenCV, scikit-learn, Keras, TensorFlow, PyTorch, Numpy, LangChain, LangGraph, LLMs, Retrieval-Augmented Generation (RAG), vector databases, SQL, NoSQL, Django Rest Framework, Flask, FastAPI, Beautiful Soup, SQLAlchemy, Python, Node.js, Git, and Docker. I have also practical experience with AWS services and integrating third-party APIs.
 
-❤️ As an Software Engineer, I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
+❤️ I'm driven by an innovative mindset, continuously exploring emerging technologies and strategically applying them to develop impactful solutions for complex real-world challenges.
 
 📍 Based in **Santa Catarina, Brazil**. Open to **remote** opportunities only.
 
@@ -17,12 +17,12 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-**Applied AI Engineer at Distrito (2025-Present)**
+** AI Engineer at Distrito (2025-Present)**
 - Led the design and development of end‐to‐end AI solutions with focus on intelligent agents and RAG systems
 - Collaborate with cross-functional teams to deliver business-focused solutions
 - Mentored junior developers
 
-**AI/Backend Engineer at Ateliware (2021-2025)**
+**AI & Backend Engineer at Ateliware (2021-2025)**
 - Developed backend solutions and REST APIs for startups and established companies
 - Worked with serverless and event-driven architectures, integrating payment gateways and third-party APIs
 - Collaborated with product teams to conduct technical discovery and requirements analysis
@@ -31,12 +31,12 @@
 - Collaborated with international teams in agile environments
 - Mentored junior developers
 
-**AI/ML Engineer at 4Vision (2017-2021)**
+**Computer Vision Engineer at 4Vision (2017-2021)**
 - Developed computer vision pipelines for diverse applications and research domains
 - Collaborated with domain experts to implement advanced machine learning and deep learning techniques
 - Led small teams and mentored junior developers
 
-**AI/ML Researcher at UNIVALI (2017-2019)**
+**Computer Vision Researcher at UNIVALI (2017-2019)**
 - Developed CNN-based models and computer vision solutions for applied research projects
 
 ### 📚 Education and Certifications
