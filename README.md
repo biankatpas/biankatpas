@@ -3,7 +3,7 @@
 <h3 align="center">AI Software Engineer</h3>
 <!-- About Me Section -->
 
-💻 With 10+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
+💻 With 5+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
 📚  My core technical interests span backend development and cutting-edge AI domains, including Computer Vision, Intelligent Agents, Machine Learning, Deep Learning, NLP, and LLMs. 
 
