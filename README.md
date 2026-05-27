@@ -17,7 +17,7 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-** AI Engineer at Distrito (2025-Present)**
+**AI Engineer at Distrito (2025-Present)**
 - Led the design and development of end‐to‐end AI solutions with focus on intelligent agents and RAG systems
 - Collaborate with cross-functional teams to deliver business-focused solutions
 - Mentored junior developers
