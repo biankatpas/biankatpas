@@ -1,9 +1,9 @@
 <!-- Presentation Banner -->
 <h1 align="center">Hello 👋, I'm Bianka Passos!</h1>
-<h3 align="center">AI Software Engineer</h3>
+<h3 align="center">Applied AI & Forward Deployed Engineer</h3>
 <!-- About Me Section -->
 
-💻 With 5+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
+💻 With 8+ years of experience in AI solutions development, I specialize in backend engineering, APIs, computer vision, AI agents, and advanced artificial intelligence applications. I enjoy working with international and cross-functional teams and adapting to different tech stacks in agile environments.
 
 📚  My core technical interests span backend development and cutting-edge AI domains, including Computer Vision, Intelligent Agents, Machine Learning, Deep Learning, NLP, and LLMs. 
 
@@ -17,7 +17,12 @@
 
 ### 👩🏼‍💻 Professional Experience
 
-**AI Engineer at Distrito (2025-Present)**
+**Forward Deployed Engineer at Nomad Fintech (2026-Present)**
+- Lead the development and deployment of AI agents and LLM-driven solutions across the Investments & Wealth domain
+- Build AI-powered experiences for customers and investors, as well as intelligent tools for internal teams
+- Collaborate with cross-functional teams to translate business needs into impactful AI solutions
+
+**Forward Deployed Engineer at Distrito (2025-2026)**
 - Led the design and development of end‐to‐end AI solutions with focus on intelligent agents and RAG systems
 - Collaborate with cross-functional teams to deliver business-focused solutions
 - Mentored junior developers
